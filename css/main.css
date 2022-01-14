@@ -1,0 +1,24 @@
+.large {
+    font-size: 13px;
+}
+
+#cabecalho {
+    height: 100px;
+    border: 2px solid red;
+}
+#conteudo {
+    border: 2px solid blue;
+}
+#rodape {
+    border: 2px solid green;
+    min-height: 70px;
+}
+
+.caixa-destaque {
+    background-color: aquamarine;
+}
+
+.botao-red {
+    color: red;
+    font-size: 18px;
+}
